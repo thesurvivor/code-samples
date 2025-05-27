@@ -1,6 +1,6 @@
 import Navbar from "@/app/components/navbar/Navbar";
 import Link from "next/link";
-import ThemeToggle from "@/app/components/themeToggle/ThemeToggle";
+import ThemeToggle from "@/app/components/themeToggle/themeToggle";
 
 export default function RoutingLayout({
   children,
