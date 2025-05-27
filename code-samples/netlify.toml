@@ -7,6 +7,4 @@
   NPM_FLAGS = "--legacy-peer-deps" 
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs" 
-  package = "@netlify/plugin-lighthouse" 
-  
+  package = "@netlify/plugin-nextjs"   
